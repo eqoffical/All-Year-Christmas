@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"":[
+			{
+				"model": "minecraft:block/spruce_leaves_1"
+			},
+			{
+				"model": "minecraft:block/spruce_leaves_2"
+			},
+			{
+				"model": "minecraft:block/spruce_leaves_3"
+			}
+		]
+	}
+}
